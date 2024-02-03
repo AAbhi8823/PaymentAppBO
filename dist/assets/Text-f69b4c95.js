@@ -1,0 +1,1 @@
+import{j as a}from"./index-9a39d6e8.js";const r={sm:"",md:"text-md",lg:"text-lg"},x=t=>{const{as:s="p",fontSize:n="sm",children:o}=t,e=s,m=`${r[n]} my-3`;return a.jsx(e,{className:m,children:o})};export{x as T};
