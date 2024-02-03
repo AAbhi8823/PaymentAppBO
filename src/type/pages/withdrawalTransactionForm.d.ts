@@ -1,0 +1,3 @@
+interface withdrawalTransactionFormProps {
+  masterData: Type;
+}

@@ -1,0 +1,3 @@
+interface bankAccountFormProps {
+  refetch: () => void;
+}
